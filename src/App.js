@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme: Theme) =>
 function App() {
   const classes = useStyles();
 
-  //multiple use states can be defined
+  //multiple useState can be defined
   let [users, setUsers] = useState(null);
   let [isLoading, setisLoading] = useState(true);
   let [currentUser, setCurrentUser] = useState(null);
