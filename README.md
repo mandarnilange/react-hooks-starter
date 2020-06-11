@@ -4,6 +4,12 @@ Starter giving implementation of React, React Router, Hooks and sample API calls
 
 ## Background
 
+This is starter project build for learning React Hooks. Article at Linked-in and Medium details and discussed React hooks.
+
+### Credits
+
+This app uses reqres.in for sample API calls.
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
